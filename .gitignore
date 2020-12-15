@@ -1,0 +1,8 @@
+__pycache__/
+.idea/
+
+.DS_Store
+Thumbs.db
+takashi/data/datasets/*.txt
+takashi/data/preprocessed/*.pkl
+takashi/data/trained/*.pth
