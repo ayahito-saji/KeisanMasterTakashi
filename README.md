@@ -117,7 +117,7 @@ $python3 create_datasets.py --max_depth 5 --include_kakezan --include_warizan
 | / | 14 |
 | ( | 15 |
 | ) | 16 |
-| __BOS__ | 16 |
+| __BOS__ | 17 |
 
 ただし，__PAD__はパディング（行列にして処理するときに，式によって長さが異なると不都合なので，これで余ってる部分を埋める），__BOS__はBeginOfSentenceで，系列変換のデコーダーに最初に与える記号です．
 
