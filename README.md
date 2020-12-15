@@ -127,9 +127,9 @@ $python3 create_datasets.py --max_depth 5 --include_kakezan --include_warizan
 |---|---|---|---|---|---|---|
 |15 | 2 |11 | 5 |16 | 13| 9 |
 
-|       | 6 | 3 |
-|-------|---|---|
-|__BOS__| 6 | 3 |
+|           | 6 | 3 |
+|-----------|---|---|
+| `__BOS__` | 6 | 3 |
 
 `src`フォルダ内の`preprocess.py`によって前処理を行います．
 ```
